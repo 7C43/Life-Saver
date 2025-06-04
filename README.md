@@ -3,8 +3,8 @@
 This repository is dedicated to our final year project, "LifeSaver," a web application designed to revolutionize the way blood donation is managed and save lives. Built with the MERN stack, it offers real-time inventory management, secure user authentication, and user-friendly dashboards for donors, recipients, and blood banks. Join us in this mission to make blood donation more efficient and life-saving.
 
 *Project Team:
-- Abdul Hannan: Project Team Lead
-- Mohammed Zaid: Team Member 1
+- Abdul Hannan: Team Member 1
+- Mohammed Zaid: Project Lead
 - Mohammed Zaid Abdulla: Team Member 2
 - 
 Key Features:
